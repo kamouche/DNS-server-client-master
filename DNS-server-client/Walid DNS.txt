@@ -1,0 +1,9 @@
+Annaba.dz:128.6.68.137
+annaba.dz:128.6.68.132
+www.rutgers.com:128.6.68.137
+www.rutgers.com:128.6.68.137
+grep.cs.princeton.edu:128.6.68.137
+www.rutgers.com:128.6.68.137
+umn.edu:134.84.159.77
+a:Host not foundss:Host not found
+			st = input()  # Get input from users.:Host not found
